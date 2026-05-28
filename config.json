@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricssonnect",
+        "uuid": 6499284,
+        "checksum": "lp3qmu"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
